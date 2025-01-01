@@ -1,6 +1,6 @@
-# Fruit & Vegetable Image Recognition
+# Fruit & Vegetable Name Prediction
 
-This project focuses on image recognition of fruits and vegetables using the MobileNetV2 model. It includes feature extraction and training for accurate classification. The model and corresponding Jupyter Notebook provide a workflow for recognizing different categories of fruits and vegetables from images.
+This project focuses on prediction of fruits and vegetables images name using the MobileNetV2 model. It includes feature extraction and training for accurate classification. The model and corresponding Jupyter Notebook provide a workflow for recognizing different categories of fruits and vegetables from images.
 
 ## Features
 - Pre-trained MobileNetV2 for feature extraction.
